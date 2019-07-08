@@ -8,3 +8,5 @@ Contents:
 - LW1: Simple logical elements
 - LW2: Combination circuits
 - LW3: T-trigger
+- LW4: 4-bit register
+- LW5: Moore machine
